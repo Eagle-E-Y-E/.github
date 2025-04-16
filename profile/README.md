@@ -1,3 +1,3 @@
-# 👁️ Eagle-E-Y-E
+# 👁️ Eagle-EYE
 
 Welcome to **Eagle-E-Y-E** — a collaborative space for Python-Based desktop applications to demonstrate Computer Vision and Image Processing key topics.
