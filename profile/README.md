@@ -1,5 +1,5 @@
 <h1>
-  <img src="https://avatars.githubusercontent.com/u/199839468?s=48&v=4" width="40" style="vertical-align: bottom; margin-right: 10px;">
+  <img src="https://avatars.githubusercontent.com/u/199839468?s=48&v=4" width="40" style="vertical-align: bottom; margin-right: 100px;">
   Eagle-E-Y-E
 </h1>
 
